@@ -1,1 +1,2 @@
-// bora
+db.produtos.countDocuments({});
+
